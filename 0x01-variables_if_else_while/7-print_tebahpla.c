@@ -1,18 +1,18 @@
 #include <stdio.h>
 /**
  * main - Entry
- * Return: eacH time returns 0
+ * Return: each time returns 0
  */
 
 int main(void)
 {
-	int z;
+	char k;
 
-	z = 0;
+	k = 'z';
 	while
-		(z < 10) {
-			putchar(z + '0');
-			z++;
+		(k >= 'a') {
+			putchar(k);
+			k--;
 		}
 	putchar('\n');
 	return (0);
