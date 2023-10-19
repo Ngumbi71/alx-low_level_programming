@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Entry
- * Return: each time return 0
+ * Return: returns 0
  */
 int main(void)
 {
