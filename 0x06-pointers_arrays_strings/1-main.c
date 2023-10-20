@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- *
+ *_strncat - concatenates two strings
  * Return: Always 0.
  */
 int main(void)
