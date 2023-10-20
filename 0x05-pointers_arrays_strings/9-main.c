@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- *
+ * _strcpy - copies the string pointed to by src
  * Return: Always 0.
  */
 int main(void)
