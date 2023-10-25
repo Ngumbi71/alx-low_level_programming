@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strpbrk - Entry
+ * _strpbrk - searches a string for any of a set of bytes
  * @s: an input
  * @accept: an input
  * Retunr: 0
