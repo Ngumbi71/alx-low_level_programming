@@ -11,6 +11,7 @@ int _sqrt_recursion(int n)
 		return (-1);
 	return (actual_sqrt_recursion(n, 0));
 }
+
 /**
  * actual_sqrt_recursion - function that recurses to find natural square root
  * @n: number whose square root is calculated
